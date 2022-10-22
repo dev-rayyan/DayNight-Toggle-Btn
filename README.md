@@ -1,5 +1,5 @@
 # DayNight-Toggle-Btn
 
--- npm install
+1. npm install
 
--- npm start and you have your project working
+2. npm start and you have your project working
